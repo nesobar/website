@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>たいとる</title>
+</head>
+<body>
+  <div>
+  <h1>タイトル</h1>
+  本文
+  </div>
+</body>
+</html>
